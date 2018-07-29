@@ -37,3 +37,33 @@ html{
 #brand-logo1, #brand-logo2{
     font-family: 'Julius Sans One', sans-serif;
 }
+
+.card .card-image img {
+    .card .card-image img {
+        display: center;
+        border-radius: 8px 8px 0 0;
+        position: relative;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 50%;
+    }
+    
+    .card .card-image img {
+        display: block;
+        border-radius: 2px 2px 0 0;
+        position: relative;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    img {
+        border-style: none;
+    }
+    *, *:before, *:after {
+        -webkit-box-sizing: inherit;
+        box-sizing: inherit;
+}
