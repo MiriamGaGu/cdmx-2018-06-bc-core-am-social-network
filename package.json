@@ -18,5 +18,19 @@
     "mocha": "^5.1.1",
     "nyc": "^11.7.1",
     "opener": "^1.4.3"
-  }
+  },
+  "description": "Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. Las redes\r sociales han invadido nuestras vidas. Las amamos u odiamos, y muchos no podemos\r vivir sin ellas.",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiriamGaGu/cdmx-2018-06-bc-core-am-social-network.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/MiriamGaGu/cdmx-2018-06-bc-core-am-social-network/issues"
+  },
+  "homepage": "https://github.com/MiriamGaGu/cdmx-2018-06-bc-core-am-social-network#readme"
 }

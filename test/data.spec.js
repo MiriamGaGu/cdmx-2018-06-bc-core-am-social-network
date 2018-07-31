@@ -1,10 +1,15 @@
-// Ejecuta tu test 
-const { assert } = require('chai');
-const InputNotEmpty = require('../src/js/index.js');
+  it('debería exponer función computeStudentsStats en objeto global', () => {
+    assert.isFunction(computeStudentsStats);
+  });
 
-describe('InputNotEmpty()', () => {
-it('deberia...', () => {
-  assert.equal(typeof InputNotEmpty, 'function')
-})
-it('Debería retornar un true en caso de que el input no este vacio')
-})
+  it('debería exponer función computeGenerationsStats en objeto global', () => {
+    assert.isFunction(computeGenerationsStats);
+  });
+
+  it('debería exponer función sortStudents en objeto global', () => {
+    assert.isFunction(sortStudents);
+  });
+
+  it('debería exponer función filterStudents en objeto global', () => {
+    assert.isFunction(filterStudents);
+  });

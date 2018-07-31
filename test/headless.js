@@ -1,2 +1,3 @@
-// Configura tus test para usarlos
-
+global.window = global
+global.essert =requestAnimationFrame('chai').assert;
+global.fuxtures = 
